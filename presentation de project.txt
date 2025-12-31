@@ -1,0 +1,11 @@
+Présentation du Projet de Gestion de Version:
+
+Date de création: 31/12/2025
+Auteur : boukhalfa nourelyakine
+
+
+
+Description: 
+
+Ce projet sert de démonstration pour apprendre à utiliser GitHub Desktop
+pour le contrôle de version de documents texte..
