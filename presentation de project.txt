@@ -21,3 +21,21 @@ Structure du projet
 - Fichier README.md : description générale
 - Fichier presentation.md : ce document
 - Dossier docs : documentation complémentaire (à créer)
+
+  Étapes suivantes
+
+ À court terme
+-  Ajouter des captures d'écran de GitHub Desktop
+-  Créer un guide d'installation détaillé
+-  Documenter les commandes Git équivalentes
+
+ À moyen terme
+-  Ajouter des exemples de collaboration
+-  Créer des exercices pratiques
+-  Traduire en anglais
+
+ Notes techniques
+Ce projet utilise :
+- GitHub Desktop version 
+- Format Markdown pour la documentation
+- Structure de dépôt simple
