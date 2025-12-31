@@ -39,3 +39,11 @@ Ce projet utilise :
 - GitHub Desktop version 
 - Format Markdown pour la documentation
 - Structure de dépôt simple
+
+ Conclusion
+
+Ce petit projet a permis de démontrer :
+✅ La création d'un dépôt Git avec GitHub Desktop
+✅ La modification progressive d'un document
+✅ L'enregistrement de l'historique via des commits
+✅ La consultation des différentes versions
