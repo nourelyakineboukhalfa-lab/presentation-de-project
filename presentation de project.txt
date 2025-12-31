@@ -9,3 +9,15 @@ Description:
 
 Ce projet sert de démonstration pour apprendre à utiliser GitHub Desktop
 pour le contrôle de version de documents texte..
+
+Objectifs pédagogiques
+
+1. Comprendre le concept de contrôle de version
+2. Maîtriser l'interface de GitHub Desktop
+3. Savoir créer et gérer des commits
+4. Consulter l'historique des modifications
+
+Structure du projet
+- Fichier README.md : description générale
+- Fichier presentation.md : ce document
+- Dossier docs : documentation complémentaire (à créer)
